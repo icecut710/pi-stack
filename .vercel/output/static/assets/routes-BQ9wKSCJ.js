@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/shell-CUcmUvx6.js","assets/index-DN79QsZh.js"])))=>i.map(i=>d[i]);
+import{a as e,c as t,f as n,t as r}from"./index-DN79QsZh.js";var i=n(t()),a=e();function o(){let[e,t]=(0,i.useState)(null);return(0,i.useEffect)(()=>{let e=!0;return r(()=>import(`./shell-CUcmUvx6.js`).then(n=>{e&&t(()=>n.StudioShell)}),__vite__mapDeps([0,1])),()=>{e=!1}},[]),e?(0,a.jsx)(e,{}):(0,a.jsx)(`div`,{className:`flex h-dvh items-center justify-center bg-bg text-sm text-muted`,children:`Loading NodeRack…`})}export{o as component};

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NodeRack",
+      "hasCanvas": false,
+      "bodyTextLen": 17,
+      "bodyTextHash": "8ffab66bbe606224bc563f7061e5a27f7a0451a160e015d03b31e48a87b99518",
+      "bodyTextPrefix": "Loading NodeRack…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NodeRack",
+      "hasCanvas": false,
+      "bodyTextLen": 1035,
+      "bodyTextHash": "13d585685631492202418d01a41295e6c88d638e2107da03f3a2b98a57937211",
+      "bodyTextPrefix": "NodeRack Pi 4B · 3-node · Photon Mono 2 Assembled Exploded Part ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
